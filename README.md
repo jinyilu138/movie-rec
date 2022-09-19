@@ -1,3 +1,3 @@
-# movie-rec
+# Movie Recommender
 
-#### this is a quick movie recommendation project, it takes in a movie and a user's rating of it to make some suggestions.
+#### This is a quick movie recommendation project. It takes in a movie and a user's rating of it to make some suggestions.
